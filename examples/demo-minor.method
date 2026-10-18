@@ -1,0 +1,4 @@
+# Four-bell example: a lead of two changes, written as place notation.
+name = Four-bell demo
+stage = 4
+lead = x14
